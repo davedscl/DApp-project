@@ -1,0 +1,4 @@
+{
+	"stockTickers": ["AAL", "ALT", "NCMI", ... ],
+	"folder": "folder of a storage"
+}
